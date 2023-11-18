@@ -5,6 +5,11 @@
 .. tag:: web
 .. tag:: php
 
+.. sidebar:: Logo
+
+  .. image:: _static/images/craft_cms.svg
+      :align: center
+
 
 #####
 Craft CMS
